@@ -1,1 +1,1 @@
-This represents some of my work for the ARC challenge on Kaggle. Any tips are welcome!
+This represents some of my work for the ARC challenge on Kaggle, I have drawn a lot of inspiration Muhamad Arwani Maulana's ARC solver V1 as an initial starting point to review the efficacy of traditional model. Any tips are welcome, and more additions coming soon.
